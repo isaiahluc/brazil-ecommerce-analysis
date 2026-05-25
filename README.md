@@ -35,21 +35,21 @@ Raw CSVs (3 files)
 
 **File Descriptions**
 
-olist_order_items_dataset.csv: Raw source data — order line items
+**olist_order_items_dataset.csv:** Raw source data — order line items
 
-olist_products_dataset.csv: Raw source data — product attributes
+**olist_products_dataset.csv:** Raw source data — product attributes
 
-olist_product_category_translation.csv: Raw source data — category name translations (PT → EN)
+**olist_product_category_translation.csv:** Raw source data — category name translations (PT → EN)
 
-Brazil_Data.csv: Merged dataset post-Power Query; variables of interest selected, initial cleaning applied
+**Brazil_Data.csv:** Merged dataset post-Power Query; variables of interest selected, initial cleaning applied
 
-Brazil_Data_Cleaning.sql: SQL script checking for nulls, duplicates, and string/numeric inconsistencies
+**Brazil_Data_Cleaning.sql:** SQL script checking for nulls, duplicates, and string/numeric inconsistencies
 
-Brazil_Data_EDA.sql: SQL script performing outlier detection and exploratory variable analysis
+**Brazil_Data_EDA.sql:** SQL script performing outlier detection and exploratory variable analysis
 
-Brazil_Data_Final.csv: Finalized dataset used as the Power BI data source
+**Brazil_Data_Final.csv:** Finalized dataset used as the Power BI data source
 
-Order Analysis.pbix: Power BI report with unit-level product analysis (note: built on Mac without DAX access)
+**Order Analysis.pbix:** Power BI report with unit-level product analysis (note: built on Mac without DAX access)
 
 
 
