@@ -21,7 +21,7 @@ Power BI: Dashboard and unit-level product analysis
 
 
 
-**Workflow**
+**Workflow (For better visual, click on "code" in top left)**
 
 Raw CSVs (3 files)
     └── Merged & cleaned in Excel Power Query
