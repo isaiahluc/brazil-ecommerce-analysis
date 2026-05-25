@@ -4,8 +4,16 @@ This project analyzes customer order data from the Brazilian E-Commerce Public D
 
 
 **Tools & Technologies**
+
 Excel (Power Query): Initial data merging and cleaning
 
 SQL: Data cleaning, deduplication, EDA
 
 Power BI: Dashboard and unit-level product analysis
+
+
+
+**Key Findings**
+
+1. Health/Beauty, Watches, and Bed/Bath/Table products were the top revenue-generating categories across the dataset.
+2. Bed/Bath/Table and Health/Beauty, despite strong revenue performance, also carry the highest third-party shipping costs, compressing their net margins relative to other categories.
