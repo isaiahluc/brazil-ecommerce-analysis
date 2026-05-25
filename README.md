@@ -5,5 +5,7 @@ This project analyzes customer order data from the Brazilian E-Commerce Public D
 
 **Tools & Technologies**
 Excel (Power Query): Initial data merging and cleaning
+
 SQL: Data cleaning, deduplication, EDA
+
 Power BI: Dashboard and unit-level product analysis
